@@ -3,7 +3,7 @@
 
 
 # Introduction
- I will
+To create this algorithm, you would need to survey your students 
 
 
 # Requirements
